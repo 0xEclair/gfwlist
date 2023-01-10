@@ -2,7 +2,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: eclair-lumiere, 31 Dec 2022 04:55 -0400
+! Last Modified: eclair-lumiere, 11 Jan 2023 02:27 -0400
 !
 ! HomePage: https://github.com/eclair-lumiere/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -43,6 +43,9 @@
 ||bscscan.com
 ||mintscan.io
 ||bigdipper.live
+!--research
+||sciencedirect.com
+||elsevier.com
 !-------------------------------------------------
 !--||adorama.com
 ||afreecatv.com
