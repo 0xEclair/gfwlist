@@ -1,0 +1,12 @@
+{
+  "name": "gfwlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/eclair-lumiere/gfwlist.git",
+  "author": "eclair-lumiere <38656355+eclair-lumiere@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
