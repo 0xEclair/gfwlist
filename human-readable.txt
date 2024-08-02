@@ -2,9 +2,9 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: eclair-lumiere, 11 Jan 2023 02:27 -0400
+! Last Modified: Eoous, 02 Aug 2024 19:16 -0400
 !
-! HomePage: https://github.com/eclair-lumiere/gfwlist
+! HomePage: https://github.com/Eoous/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 !
 ! GFWList is unlikely to fully comprise the real
@@ -71,6 +71,8 @@
 ||magiceden.io
 ||geniidata.com
 ||lightning.engineering
+||bnbchain.org
+||optimism.io
 !--blockchain explorer
 ||bscscan.com
 ||mintscan.io
