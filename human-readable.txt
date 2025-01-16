@@ -42,8 +42,6 @@
 ||caddy.community
 ||aliyuncs.com
 ||twitter.com
-||oasis.world
-||rcsv.io
 ||mempool.space
 ||cycdm01.top
 ||agemys
@@ -81,6 +79,11 @@
 !--research
 ||sciencedirect.com
 ||elsevier.com
+!--ai
+||langchain.com
+!--operations
+||amazon.com
+||awsstatic.com
 !-------------------------------------------------
 !--||adorama.com
 ||afreecatv.com
